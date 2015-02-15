@@ -1,6 +1,6 @@
 lazy val root = (project in file(".")).
   settings(
-    name := "entretien-teads",
+    name := "PROJECT_NAME",
     version := "1.0",
     scalaVersion := "2.11.4"
   )
